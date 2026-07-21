@@ -19,10 +19,11 @@ teams who already require it to run inside their own boundary.
 
 ## Research
 
-Our methods are published, and the reference implementation and datasets are open.
+Our methods are published, and the reference implementation and datasets are open. Both papers
+are by **James Henry**, Eigan's research lead.
 
 **The Concept Allocation Zone: Tracking How Concepts Form Across Transformer Depth**
-[arXiv:2605.24856](https://arxiv.org/abs/2605.24856)
+James Henry — [arXiv:2605.24856](https://arxiv.org/abs/2605.24856)
 
 Concept formation in transformers is depth-extended rather than a single-layer event. We
 formalize the depth interval within which a concept becomes measurably separable, and derive
@@ -30,7 +31,7 @@ boundary detection without manual layer sweeps. Validated across 34 models from 
 families.
 
 **Geometric Evolution Maps: Extracting Stable Concept Probes from Transformer Residual Streams**
-[arXiv:2605.25848](https://arxiv.org/abs/2605.25848)
+James Henry — [arXiv:2605.25848](https://arxiv.org/abs/2605.25848)
 
 Concept probe directions rotate substantially during assembly and do not settle until a
 characteristic handoff layer. Probes extracted at the handoff are at least as precise as
